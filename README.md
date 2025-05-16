@@ -13,7 +13,9 @@ A total of 22,553 10-second EEG clips (20 leads)
 
 6 classes: Periodic Discharges (PD), Rhythmic Delta Activity (RDA), Seizure, etc.
 
-##⚡ Quick Start
+
+
+## ⚡ Quick Start
 
 ```text
 $ git clone https://github.com/your-org/sai3cnet.git
