@@ -19,8 +19,6 @@ A total of 22,553 10-second EEG clips (20 leads)
 
 ```text
 $ git clone https://github.com/your-org/sai3cnet.git
-$ cd sai3cnet
-$ python3 -m venv .venv && source .venv/bin/activate
 $ pip install -r requirements.txt
 ```
 
