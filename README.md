@@ -15,17 +15,17 @@ A total of 22,553 10-second EEG clips (20 leads)
 
 ##⚡ Quick Start
 
-```bash
-# 1. 저장소 클론 및 환경 설정
+```text
 $ git clone https://github.com/your-org/sai3cnet.git
 $ cd sai3cnet
 $ python3 -m venv .venv && source .venv/bin/activate
 $ pip install -r requirements.txt
+```
 
 
 ## 📊 Results
 
-### 2. Ablation Study
+### 1. Baseline Model
 
 | Model | ACC | F1 | KLD&nbsp;↓ | Sensitivity | mACC |
 | :--- | :---: | :---: | :---: | :---: | :---: |
